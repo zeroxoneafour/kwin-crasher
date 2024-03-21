@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vaughanm1@protonmail.com",
+                "Name": "Vaughan Milliman"
+            }
+        ],
+        "Description": "Crash KWin by dragging windows :D",
+        "Id": "kwin-crasher",
+        "License": "MIT",
+        "Name": "KWin Crasher",
+        "Version": "0.1.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
